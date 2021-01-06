@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.topnav{
+    overflow:hidden;
+    margin-bottom: 50px;
+}
+
+.topnav a{
+    float: right;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: black;
+    color: white;
+}
+
+
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 80%;
+}
+
+
+section{
+    padding-bottom: 70px;
+    height: 500px;
+}
+
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    line-height: 80px;
+    color: #363958;
+}
+
+h3{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    color: #363958;
+}
+
+p{  
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: #3E3E3E;
+    margin-bottom: 40px;
+    
+}
+
+.name-highlight{
+    color: #F46060;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(40deg, tomato, salmon);    
+    padding: 10px 35px;
+    border-radius: 5px;
+    font-weight: 500;
+    color:white;
+    margin-right:80px;
+}
+
+
+#download-icon img{
+    width: 10px;
+    margin-right: 10px;
+}
+
+
+.Latest-work{
+    padding-top: 500px;
+    text-align: center;
+}
+
+.skills{
+    text-align: center;
+}
+
+
+.triple-width{
+    width: 25%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.triple-width img{
+    width: 65%;
+}
+
+.work-title{
+    font-size: 20px;
+    color: #363958;
+    font-weight: 700;
+    
+}
+
+#latest-work-paragraph{
+    font-size: 14px;
+    color:gray;
+    float: center;
+}
+
+
+.chat-section{
+    width: 900px;
+    height: 200px;
+    margin-left: 20%;
+    background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+    border-radius: 30px;
+
+    
+}
+
+.chat-section h1{
+    margin-left: 50px;
+    color: white;
+}
+
+#chat-text{
+    width: 50%;
+    float: left;
+}
+
+#chat-button
+{   
+    margin-top: 95px;
+    float: right;
+}
+
+.skill-width{
+    width: 25%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.skill-width img{
+    width: 150px;
+    height: 150px;
+    border:2px solid gray;
+    border-radius: 50%;
+    
+}
+
+
+footer{
+    text-align: center;
+}
+
+#email{
+    font-size: 30px;
+    color: #363958;
+    font-weight: 800;
+}
+
+footer span{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: #3E3E3E;
+}
+
+footer img{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
